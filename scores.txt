@@ -23,6 +23,7 @@ colors = {
     "Green": 5,
     "Pink": 5,
     "Black": 7,
+    "Golden": 8,
     "Sapphire": 9
 }
 
