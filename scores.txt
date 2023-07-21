@@ -19,6 +19,7 @@ colors = {
     "Grey": 3,
     "Mediumslateblue": 3,
     "Yellow": 3,
+    "Orange": 4,
     "Purple": 4,
     "Green": 5,
     "Pink": 5,
