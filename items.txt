@@ -1,66 +1,71 @@
-Banana: Original
-Saw: Original
-Fish Tank: Rare
-BrickShoe: Legendary
-Female Hair: Common
-Squre Hat: Uncommon
 Alien Face: Legendary
-Sus Face: Original
-Sus Hair: Extraordinary
-Billy: Original
-Bald: Rare
-Mask: Original
-Banana Clothe: Unique
-BoggieHat: Unique
-Cheese Hat: Extraordinary
-Banana Craft Head: Unique
-Crown: Unique
-Golden Pan: Unique
-Traffic Cone: Uncommon
-Vr Headset: Rare
-Wool Hat: Common
-Fedora: Extraordinary
-Normal Shoe: Uncommon
-Banana Mask: Unique
-Gas Mask: Unique
-Radio: Unique
-Cat Ears Headphone: Extraordinary
-Domino Hat: Rare
-Jeremy's Hat: Legendary
-Kayak helmet: Rare
-Microwave: Extraordinary
-Nerd Glasses: Rare
-House: Rare
-Witch Hat: Rare
-Halo: Epic
-Clown: Legendary
-ComdarMask: Epic
-Intimidating Glasses: Rare
-Long Nose: Epic
-Pumpkin Head: Uncommon
-Pumpkin Headphone: Extraordinary
-Pant Glasses: Unique
-Klaus Dave: Uncommon
 Antlers of deer: Uncommon
+Banana: Original
+Banana Clothe: Unique
+Banana Craft Head: Unique
+Banana Mask: Unique
 Banana Mohavk: Rare
 Bandana: Common
+Bald: Rare
+Billy: Original
+BoggieHat: Unique
+BrickShoe: Legendary
 Builders Helmet: Uncommon
 Cat: Rare
+Cat Ear: Unique
+Cat Ears Headphone: Extraordinary
+Cheese Hat: Extraordinary
 Christmas Eyes: Uncommon
 Christmas Headphones: Extraordinary
 Claus Cap: Common
+Clown: Legendary
 Comfortable Klaus Shoes: Legendary
+ComdarMask: Epic
+Crown: Unique
+Domino Hat: Rare
+Female Hair: Common
+Fedora: Extraordinary
+Femboy Socks: Unique
+Fish Tank: Rare
+Gas Mask: Unique
 Gift Hat: Rare
+Golden Pan: Unique
 Good Boy Cap: Common
+Halo: Epic
+House: Rare
+Intimidating Glasses: Rare
+Jeremy's Hat: Legendary
+Kayak helmet: Rare
+Katana on head: Rare
+Klaus Dave: Uncommon
 Klays Beard: Common
+Leaves: Uncommon
+Long Nose: Epic
+Mask: Original
+Microwave: Extraordinary
+Mustache: Common
 Mystical Christmas Tree: Uncommon
+Nerd Glasses: Rare
+Normal Shoe: Uncommon
+Pant Glasses: Unique
+Pumpkin Head: Uncommon
+Pumpkin Headphone: Extraordinary
+Radio: Unique
+Sandals: Uncommon
+Saw: Original
+Skirt: Unique
+Smoke: Legendary
 Snowman Head: Rare
 Snowmans Nose: Rare
+Soda Hat: Legendary
+Squre Hat: Uncommon
 Star Bananium: Extraordinary
+Sus Face: Original
+Sus Hair: Extraordinary
 The Christmas Presidents Hat: Legendary
+Traffic Cone: Uncommon
+Viking Helmet: Legendary
+Vr Headset: Rare
+Witch Hat: Rare
 Winter Mask: Extraordinary
-Cat Ear: Unique
-Katana on head: Rare
-Femboy Socks: Unique
-Skirt: Unique
-Kinda long skirt: Unique
+Wool Hat: Common

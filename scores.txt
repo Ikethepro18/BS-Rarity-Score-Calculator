@@ -19,11 +19,15 @@ colors = {
     "Grey": 3,
     "Mediumslateblue": 3,
     "Yellow": 3,
+    "Orange": 4,
     "Purple": 4,
     "Green": 5,
     "Pink": 5,
     "Black": 7,
-    "Sapphire": 9
+    "Golden": 8,
+    "Sapphire": 9,
+    "Emerald": 9,
+    "Ruby": 9
 }
 
 shiny_values = {
@@ -32,6 +36,7 @@ shiny_values = {
     "0.4": 8,
     "0.6": 9,
     "0.8": 10,
+    "0.9": 11,
 }
 
 particles = {

@@ -10,12 +10,3 @@ From here you can select the item of choice from the dropdown, the colour of cho
 
 ![](https://camo.githubusercontent.com/167b090b96d6ae2b6f4888d70273eee06417cb0ad2da88f73cfaddb53741e046/68747470733a2f2f692e696d6775722e636f6d2f617746757372562e706e67)
 ![](https://camo.githubusercontent.com/e189beed3697cae55e6626add230205bb631a87069568b9b1ab95acc3d8cd197/68747470733a2f2f692e696d6775722e636f6d2f326950595459592e706e67)
-
-## Additional Information
-As previously mentioned, most of the rarity scores were compiled by metotallynot. Items in the list are ordered by item ID hence why it may seem like it follows no pattern. Items are up to date, however some things aren't certain
-- Rarity score for Golden items
-- Rarity score for 0.9 shiny items
-- Rarity score for Ruby items
-- Rarity score for Emerald items
-
-If you have any items that have any of these properties, please get in touch with me (Ikethepro18) on Discord so that I can update the program
